@@ -1,6 +1,6 @@
 # Stop Trucks Higienizador
 
-Sistema de gestão de um higienizador de caminhões-tanque em Alto Araguaia (MT), às margens da BR-364. Substituiu a planilha da operação. Criado e mantido por mim, com desenvolvimento assistido por IA (Claude Code).
+Sistema de gestão de um higienizador de caminhões-tanque em Alto Araguaia (MT), às margens da BR-364. Substituiu a planilha da operação. Criado e mantido por mim, com desenvolvimento assistido por IA.
 
 🌐 Site: [stoptruckshigienizador.com](https://stoptruckshigienizador.com)
 
@@ -19,7 +19,7 @@ Sistema de gestão de um higienizador de caminhões-tanque em Alto Araguaia (MT)
 - 254 commits (jun a nov/2026), autor único.
 
 ## Stack
-Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase (Auth, Firestore, Storage, Hosting) · Cloud Functions (Python) · Claude Code
+Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase (Auth, Firestore, Storage, Hosting) · Cloud Functions (Python) · IA com especificação (SDD e PRD)
 
 ---
 **English:** Management system for a tank-truck cleaning business in Brazil. Kotlin Multiplatform (Android, iOS, Web, Desktop), 87% shared code, ~320 tests, web version in production. Built solo with AI-assisted development.
