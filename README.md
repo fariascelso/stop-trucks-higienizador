@@ -21,5 +21,9 @@ Sistema de gestão de um higienizador de caminhões-tanque em Alto Araguaia (MT)
 ## Stack
 Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase (Auth, Firestore, Storage, Hosting) · Cloud Functions (Python) · IA com especificação (SDD e PRD)
 
+## Telas (Android, dados de demonstração)
+
+<p><img src="screenshots/android-02-painel.png" width="220"> <img src="screenshots/android-03-atendimento.png" width="220"> <img src="screenshots/android-04-relatorio.png" width="220"> <img src="screenshots/android-05-laudo-form.png" width="220"> <img src="screenshots/android-06-laudo-pdf-qr.png" width="220"> <img src="screenshots/android-01-login.png" width="220"></p>
+
 ---
 **English:** Management system for a tank-truck cleaning business in Brazil. Kotlin Multiplatform (Android, iOS, Web, Desktop), 87% shared code, ~320 tests, web version in production. Built solo with AI-assisted development.
