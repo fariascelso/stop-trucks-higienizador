@@ -16,7 +16,7 @@ Sistema de gestão de um higienizador de caminhões-tanque em Alto Araguaia (MT)
 - Kotlin Multiplatform com 4 alvos: Android, iOS, Web (Kotlin/Wasm) e Desktop.
 - 87% do código compartilhado.
 - Cerca de 320 testes automatizados.
-- 254 commits (jun a nov/2026), autor único.
+- Versão em KMP: 254 commits (jun a nov/2026), autor único. O sistema é de antes; em 2026 foi reescrito em Kotlin Multiplatform.
 
 ## Stack
 Kotlin Multiplatform · Compose Multiplatform · Koin · Firebase (Auth, Firestore, Storage, Hosting) · Cloud Functions (Python) · IA com especificação (SDD e PRD)
